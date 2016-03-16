@@ -210,6 +210,8 @@ function create_config( )
       "echo",
       "btc",
       "get",
+      "phototosticker",
+    "tophoto",
       "giphy",
       "info",
       "tex",
